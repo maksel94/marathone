@@ -39,8 +39,8 @@ p {
     width: 493.57px;
     height: 90px;
     padding-top: 362px;
-    padding-left: 722px;
-    padding-right: 184px;
+    padding-right: 722px;
+    padding-left: 184px;
 }
 
 header {
@@ -84,4 +84,19 @@ header {
 
 .number {
     padding-left: 42px;
+}
+
+button {
+    font-size: 20px;
+    line-height: 24px;
+    width: 309px;
+    height: 74px;
+    background: #CC8B86;
+    margin-left: 182px;
+    margin-top: 21px;
+    color: #533738;
+}
+
+.btn {
+    outline: none;
 }
