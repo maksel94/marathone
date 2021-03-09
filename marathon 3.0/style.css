@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    color: #533738;
+}
+
+.info {
+    background-image: url(img/anastasiya-vysotskaya-v5GfetB7Yv0-unsplash\ 1.png);
+    font-size: 16px;
+    line-height: 20px;
+    background-size: 100%;
+    width: 1400px;
+    height: 715px;
+}
+
+a {
+    text-decoration: none;
+    color: #533738;
+}
+
+h1 {
+    font-family: "Montserrat";
+    font-size: 50px;
+    line-height: 62px;
+    padding: 152px 682px 442px 184px;
+    position: absolute;
+    width: 534.02px;
+    height: 186px;
+}
+
+p {
+    display: block;
+    font-size: 18px;
+    line-height: 30px;
+    width: 493.57px;
+    height: 90px;
+    padding-top: 362px;
+    padding-left: 722px;
+    padding-right: 184px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    width: 1201.28px;
+    height: 25px;
+    padding-left: 98px;
+    padding-top: 36px;
+    padding-right: 100px;
+}
+
+.logo {
+    width: 25.34px;
+    height: 25px;
+}
+
+.company {
+    padding-left: 82px;
+}
+
+.portfolio {
+    padding-left: 22px;
+}
+
+.team {
+    padding-left: 22px;
+}
+
+.regime {
+    padding-left: 22px;
+}
+
+.reviews {
+    padding-left: 22px;
+}
+
+.applications {
+    padding-left: 22px;
+}
+
+.number {
+    padding-left: 42px;
+}
